@@ -1,0 +1,8 @@
+c:\Users\rlcruz\documents\visual studio 2015\Projects\TopShelf\Topshelf.MessageContract\bin\Debug\Topshelf.MessageContract.dll
+c:\Users\rlcruz\documents\visual studio 2015\Projects\TopShelf\Topshelf.MessageContract\bin\Debug\Topshelf.MessageContract.pdb
+c:\Users\rlcruz\documents\visual studio 2015\Projects\TopShelf\Topshelf.MessageContract\bin\Debug\Nimbus.MessageContracts.dll
+c:\Users\rlcruz\documents\visual studio 2015\Projects\TopShelf\Topshelf.MessageContract\bin\Debug\Topshelf.dll
+c:\Users\rlcruz\documents\visual studio 2015\Projects\TopShelf\Topshelf.MessageContract\bin\Debug\Topshelf.xml
+c:\Users\rlcruz\documents\visual studio 2015\Projects\TopShelf\Topshelf.MessageContract\obj\Debug\Topshelf.MessageContract.csprojResolveAssemblyReference.cache
+c:\Users\rlcruz\documents\visual studio 2015\Projects\TopShelf\Topshelf.MessageContract\obj\Debug\Topshelf.MessageContract.dll
+c:\Users\rlcruz\documents\visual studio 2015\Projects\TopShelf\Topshelf.MessageContract\obj\Debug\Topshelf.MessageContract.pdb

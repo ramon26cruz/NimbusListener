@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopShelf", "TopShelf\TopShelf.csproj", "{A824735A-C415-4393-A534-7ADD6C87C874}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topshelf.MessageContract", "Topshelf.MessageContract\Topshelf.MessageContract.csproj", "{B0E2B6AC-4380-4DAD-A314-AADDB23C2F0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A824735A-C415-4393-A534-7ADD6C87C874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A824735A-C415-4393-A534-7ADD6C87C874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A824735A-C415-4393-A534-7ADD6C87C874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A824735A-C415-4393-A534-7ADD6C87C874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0E2B6AC-4380-4DAD-A314-AADDB23C2F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E2B6AC-4380-4DAD-A314-AADDB23C2F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E2B6AC-4380-4DAD-A314-AADDB23C2F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E2B6AC-4380-4DAD-A314-AADDB23C2F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
